@@ -1,4 +1,3 @@
-# DestinyRepository
-This is the repository that is with blank history, will become the host repository of a long project
+# OriginalRepository
+This is the repository that contains the history of a long project, a hello world project
 
-## Destiny repository
